@@ -1,5 +1,5 @@
-Analyseur de grammaire catégorielle (algo CYK)
-==============================================
+Analyseur de grammaire catégorielle
+===================================
 
 ## Sujet 5
 
@@ -7,6 +7,10 @@ Définir un analyseur de grammaire catégorielle classique (avec les deux règle
 grammaire et si oui, devra donner au moins une dérivation. 
 
 **Travail facultatif :** le programme affichera une ou toutes les dérivations sous forme graphique.
+
+## Résultat
+
+Le programme utilise une version modifiée de l'algorithme CYK. Il trouve toujours une dérivation, dans les cas où c'est possible. Il affiche la dérivation trouvée sous forme graphique, ainsi que le détail de l'exécution de l'algorithme.
 
 ## Installation
 
